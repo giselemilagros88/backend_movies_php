@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "movies_cac",
+        "port": "3306"
+    }
+}
